@@ -13,7 +13,7 @@ The database consists of the following tables:
 - Deduction: stores deduction information for each employee, including deduction type and amount.
 - Payroll: stores payroll information for each employee, including payroll date and amount.
 
-##Database Design
+Database Design
 The database is designed to ensure data consistency and integrity. The relationships between tables are established through foreign keys, which ensure that data is accurately linked and updated.
 ##Usage:
 The Salary Management Database can be used for various purposes, including:
@@ -23,7 +23,7 @@ The Salary Management Database can be used for various purposes, including:
 - Generating reports on salary and payroll data
 - Analyzing salary trends and patterns
 
-##Instal1lation:
+##Installation:
 To install the Salary Management Database, follow these steps:
 
 1. Download the database schema and data files.
